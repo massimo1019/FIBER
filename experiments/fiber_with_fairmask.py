@@ -1,9 +1,4 @@
 """Compare Base, Manual FairMask, and FIBER-selected FairMask on DataLaw.
-
-This script is a repository-ready version of the supplied Colab experiment.
-The modeling and fairness-evaluation logic is preserved, while file paths are
-made portable and command-line options are added for the dataset, output
-directory, and number of repeated train/test splits.
 """
 
 import argparse
