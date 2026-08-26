@@ -1,8 +1,4 @@
 """Compare Base, Manual MAAT, and FIBER-selected MAAT on DataLaw.
-
-This script is a repository-ready version of the supplied Colab experiment.
-The MAAT/WAE and FIBER logic is preserved, while Google Drive dependencies are
-removed and command-line options are provided for local reproducible runs.
 """
 
 import argparse
