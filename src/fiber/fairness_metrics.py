@@ -1,7 +1,6 @@
 """Fairness metrics used by the FIBER experiments.
 
-The implementation follows the supplied ``Measurenew.py`` behavior: for a
-candidate audit attribute with two or more categories, each category is
+For a candidate audit attribute with two or more categories, each category is
 compared with the rest of the data (One-vs-Rest), and the category-level
 fairness scores are averaged.
 
