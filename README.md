@@ -351,21 +351,6 @@ The reported DataLaw experiments use:
 
 Because FIBER performs selection independently on each training split, the selected pair can vary across repetitions.
 
----
-
-## Citation
-
-The final FIBER paper citation should be added here when the publication information is finalized.
-
-```bibtex
-@article{FIBER,
-  title   = {FIBER: ...},
-  author  = {...},
-  journal = {...},
-  year    = {...}
-}
-```
-
 ## License
 
 Add the intended software license and applicable dataset-use information before public release.
