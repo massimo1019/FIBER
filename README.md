@@ -353,18 +353,6 @@ Because FIBER performs selection independently on each training split, the selec
 
 ---
 
-## Citation
-
-The final FIBER paper citation should be added here when the publication information is finalized.
-
-```bibtex
-@article{FIBER,
-  title   = {FIBER: ...},
-  author  = {...},
-  journal = {...},
-  year    = {...}
-}
-```
 
 ## License
 
