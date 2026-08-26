@@ -153,22 +153,3 @@ pytest
 ```
 
 The included tests check the fairness-metric helper against simple cases and validate the public compatibility entry point.
-
-## Publishing to GitHub
-
-After creating an empty repository on GitHub, run from this folder:
-
-```bash
-git init
-git add .
-git commit -m "Initial FIBER repository"
-git branch -M main
-git remote add origin <YOUR-GITHUB-REPOSITORY-URL>
-git push -u origin main
-```
-
-Do not commit generated result CSV files unless you intentionally want to version them; `.gitignore` excludes them by default.
-
-## Before making the repository public
-
-Add the final paper citation, authorship/affiliation information, dataset source/license, and a repository software license once those details are finalized. They are not inferred here because they were not included in the supplied repository materials.
