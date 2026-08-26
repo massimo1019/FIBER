@@ -1,6 +1,6 @@
 # Methodology implemented in this repository
 
-This document describes the behavior of the supplied code as implemented in the cleaned repository. It is not a substitute for the paper's formal methodology section.
+
 
 ## 1. FIBER attribute scoring
 
