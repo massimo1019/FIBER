@@ -142,9 +142,6 @@ For a multi-category audit attribute, the helper performs a **One-vs-Rest** comp
 
 See [`data/README.md`](data/README.md). The repository records only mappings supported by the supplied documentation. It intentionally does not invent numeric meanings for fields whose mappings were not provided.
 
-## Reproducing paper tables
-
-See [`docs/REPRODUCIBILITY.md`](docs/REPRODUCIBILITY.md) for output filenames, settings, and notes on the two experiment pipelines. A cleanup summary is available in [`docs/CHANGES_FROM_UPLOADS.md`](docs/CHANGES_FROM_UPLOADS.md).
 
 ## Tests
 
