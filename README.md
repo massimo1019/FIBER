@@ -17,9 +17,6 @@ FIBER/
 ├── experiments/
 │   ├── fiber_with_fairmask.py
 │   └── fiber_with_maat.py
-├── outputs/
-│   ├── fairmask/
-│   └── maat/
 ├── src/fiber/
 │   ├── __init__.py
 │   └── fairness_metrics.py
